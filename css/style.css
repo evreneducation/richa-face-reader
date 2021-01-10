@@ -547,7 +547,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     position: relative;
 	background-color:#111111;
 	z-index:1;
-    background-image: url(http://via.placeholder.com/1920x1080);
+    /* background-image: url(http://via.placeholder.com/1920x1080); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
