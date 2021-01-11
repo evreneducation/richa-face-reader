@@ -1249,7 +1249,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-size: cover;
     background-attachment: fixed;
     position: relative;
-	 background-image: url(http://via.placeholder.com/1920x1080);
+	 background-image: url('../images/content/pic2.jpg');
     background-position: center center;
 	 background-repeat: no-repeat;
 }
