@@ -1249,7 +1249,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-size: cover;
     background-attachment: fixed;
     position: relative;
-	 background-image: url('../images/content/pic2.jpg');
+	 background-image: url('../images/content/black-bg.jpg');
     background-position: center center;
 	 background-repeat: no-repeat;
 }
@@ -2193,8 +2193,8 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background-attachment:fixed;
 	background-size: cover;
 	color:#ffffff;
-	padding:200px 0px 100px 0px;
-	background-image: url(http://via.placeholder.com/1920x1080);
+	padding:500px 0px 100px 0px;
+	background-image: url("../images/content/appoi-bg.jpg");
     background-position: center center;
 	background-repeat: no-repeat;
 	text-align:center;
@@ -5075,7 +5075,7 @@ li.ast_search , li.ast_cart{
 }
 /*--- about slider ---*/
 .ast_slider_wrapper.index_horoscope{
-	background-image:linear-gradient(rgba(0,0,0,0.4) , rgba(0,0,0,0.4)) , url(http://via.placeholder.com/1920x1080);
+	background-image:linear-gradient(rgba(0,0,0,0.4) , rgba(0,0,0,0.4)) , url("../images/content/horoscope-bg.jpg");
 }
 .ast_slider_wrapper.ast_index_gemstone{
 	background-image:linear-gradient(rgba(0,0,0,0.4) , rgba(0,0,0,0.4)) , url(http://via.placeholder.com/1920x1080);
